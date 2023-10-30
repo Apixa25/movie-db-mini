@@ -1,0 +1,24 @@
+{
+  "name": "mini-project-db",
+  "version": "1.0.0",
+  "description": "making a little movie DB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apixa25/movie-db-mini.git"
+  },
+  "author": "Steven Sills II",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apixa25/movie-db-mini/issues"
+  },
+  "homepage": "https://github.com/Apixa25/movie-db-mini#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.2"
+  }
+}
